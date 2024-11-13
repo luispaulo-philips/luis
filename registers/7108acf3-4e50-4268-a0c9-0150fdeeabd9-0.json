@@ -23,13 +23,13 @@
     "primary_key_values" : [ {
       "column_name" : "CD_EXPRESSAO",
       "data_type" : "NUMBER",
-      "new_value" : 1130817,
+      "new_value" : 308316,
       "old_value" : null
     } ],
     "column_values" : [ {
       "column_name" : "CD_EXPRESSAO",
       "data_type" : "NUMBER",
-      "new_value" : 1130817,
+      "new_value" : 308316,
       "old_value" : null
     }, {
       "column_name" : "NM_USUARIO",
@@ -107,7 +107,7 @@
     }, {
       "column_name" : "CD_EXPRESSAO",
       "data_type" : "NUMBER",
-      "new_value" : 1130817,
+      "new_value" : 308316,
       "old_value" : null
     }, {
       "column_name" : "DS_LAYER",
